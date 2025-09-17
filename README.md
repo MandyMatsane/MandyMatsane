@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -53,7 +52,7 @@
 *Aug 2024 – May 2025*
 
 - Built backend systems with **PHP** & **Laravel**  
-- Developed UIs using **Tailwind CSS**  
+- Developed UIs using **Tailwind CSS** and  **Bootstrap**  
 - Used **MySQL** for data storage  
 - Collaborated on team-based feature delivery  
 - Practiced version control with **Git & GitHub**
