@@ -103,7 +103,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <em>"Code is not just lines — it’s logic, creativity, and impact." — Mandy Matsane</em>
-</p>
