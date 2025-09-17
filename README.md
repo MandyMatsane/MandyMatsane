@@ -81,12 +81,18 @@
 - A responsive booking system with roles: Admin, Organizer & Attendee.
 
 ### 🚑 AmbuConnect *(In Progress)*  
-**Tech:** Java EE, Servlets, JSP, JPA, EJB, Derby DB, GlassFish, NetBeans  
-- A full-stack web application designed to improve ambulance dispatch and coordination.  
-- I’m primarily responsible for the **backend logic**, using **Java EE components** like **Servlets**, **EJB**, and **JPA** for data persistence.  
-- Also contributing to the **frontend** using **JSP** to build dynamic web pages.  
-- The application runs on **GlassFish server**, with **Derby** as the embedded database.  
-- Built collaboratively using **NetBeans** IDE.
+**Tech Stack:** Java EE, Servlets, JSP, JPA, EJB, Derby DB, GlassFish, NetBeans  
+
+AmbuConnect is a web-based emergency response system designed to help **patients quickly request an ambulance** online.
+
+- Patients can **request emergency transport** directly through the website.  
+- The system allows users to **view and choose available drivers and paramedics** in real time.  
+- I’m leading the **backend development**, implementing core features using **Java EE**, including **Servlets**, **EJB**, and **JPA** for business logic and database access.  
+- Also contributing to the **frontend** using **JSP** to render dynamic, user-driven pages.  
+- The app runs on **GlassFish server** and uses **Derby DB** for data persistence.  
+- Development is managed in **NetBeans**, and the project follows a modular, layered architecture.
+
+🔄 *Currently in active development — repository and demo coming soon!*
 
 
 ---
