@@ -80,6 +80,15 @@
 - **Tech:** PHP, Laravel, Tailwind CSS  
 - A responsive booking system with roles: Admin, Organizer & Attendee.
 
+### 🚑 AmbuConnect *(In Progress)*  
+**Tech:** Java EE, Servlets, JSP, JPA, EJB, Derby DB, GlassFish, NetBeans  
+- A full-stack web application designed to improve ambulance dispatch and coordination.  
+- I’m primarily responsible for the **backend logic**, using **Java EE components** like **Servlets**, **EJB**, and **JPA** for data persistence.  
+- Also contributing to the **frontend** using **JSP** to build dynamic web pages.  
+- The application runs on **GlassFish server**, with **Derby** as the embedded database.  
+- Built collaboratively using **NetBeans** IDE.
+
+
 ---
 
 
