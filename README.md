@@ -13,7 +13,7 @@
 
 🎓 I'm a **Computer Science graduate** from **Tshwane University of Technology** (April 2025).  
 💡 I enjoy turning complex problems into clean, functional software.  
-🐍 Recently started learning **Python** a
+🐍 Recently started learning **Python**
 🌱 I’m eager to join a team where I can keep learning, growing, and building impactful tech.
 
 ---
