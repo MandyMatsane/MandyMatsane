@@ -1,62 +1,109 @@
-## Hi, I'm Mandy Matsane!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=200&section=header&text=Hi%20I'm%20Mandy%20Matsane!&fontSize=40&fontAlignY=35&desc=Aspiring%20Software%20Developer%20%7C%20Computer%20Science%20Graduate&descAlignY=55&animation=twinkling" alt="banner" />
+</p>
 
-### 📝 About Me
-I'm a passionate and dedicated Computer Science graduate from Tshwane University of Technology, having graduated in April 2025. With a strong foundation in both backend and frontend development, I enjoy building innovative solutions that solve real-world problems. I thrive in collaborative environments and am always eager to learn and grow as a developer.
+---
 
-### 🎓 Education
-- **Diploma in Computer Science**  
-  Tshwane University of Technology — Graduated April 2025
+<h3 align="center">💻 Software Developer | Tech Explorer | CS Graduate (2025)</h3>
+<p align="center">Driven by curiosity. Built on code. Powered by collaboration.</p>
 
-### 💼 Work Experience
-- **Software Developer Intern (Work-Integrated Learning)**  
-  *August 2024 – May 2025*  
-  - Gained practical experience in PHP for backend web development.  
-  - Set up and configured Laravel for web applications.  
-  - Implemented responsive and modern UI designs using Tailwind CSS.  
-  - Developed dynamic web pages and handled data using PHP and Laravel.  
-  - Collaborated with a team to implement new features and troubleshoot issues.  
-  - Used MySQL databases for storing and retrieving application data.  
-  - Used Git and GitHub for version control and collaboration.
+---
 
-- **Student Residence Mentor**  
-  *Tshwane University of Technology*  
-  *February 2023 – December 2023*  
-  Provided guidance and support to students, assisting with exam preparation and fostering academic and personal development.
+## 👩‍🎓 About Me
 
-### 💻 Skills
-- **Backend Development:** PHP, Java, GlassFish  
-- **Database Management:** PL/SQL, PostgreSQL, MySQL  
-- **Frontend Development:** HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
-- **Mobile Development:** Kotlin  
-- **Web Frameworks:** Laravel
-- **Version Control:** Git, GitHub
+🎓 I'm a **Computer Science graduate** from **Tshwane University of Technology** (April 2025).  
+💡 I enjoy turning complex problems into clean, functional software.  
+🐍 Recently started learning **Python** and loving it!  
+🌱 I’m eager to join a team where I can keep learning, growing, and building impactful tech.
 
-### 👨‍💻 Projects
-1. **E-commerce Application**  
-   - **Technologies Used:** Java, Spring Boot, Tomcat, PostgreSQL, Bootstrap  
-   - **Description:** Developed a robust e-commerce platform for managing products, orders, and user accounts.  
-   - **GitHub Repository:** [E-commerce Application](https://github.com/09Jeanette/LifestyleDeliciousWebApp.git)  
+---
 
-2. **AbilityAssist Website**  
-   - **Technologies Used:** Python, Django, PostgreSQL, Bootstrap  
-   - **Description:** Designed to aid visually impaired students in navigating the campus.  
-   - **Features:** Interactive map, location search, voice-over navigation, directions, and distance calculations.  
-   - **Live Demo:** [AbilityAssist Website](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)
+## 🛠️ Skills & Tools
 
-3. **Event Booking Platform**  
-   - **Technologies Used:** PHP, Laravel, Tailwind CSS, TablePlus  
-   - **Description:** Created a user-friendly event booking platform that allows users to browse, book, and manage event tickets easily.  
-   - **Features:** Event listings, booking system, user authentication, and responsive design.  
-   - **User Roles:** Attendee, Admin, and Organizer — each with specific access and functionalities to manage events effectively.
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-### 🌟 Objectives
-- Engage in collaborative and impactful projects.  
-- Apply and deepen my technical skills to solve real-world challenges.  
-- Make meaningful contributions to the tech community.  
-- Continue advancing my education and career in computer science.
+---
 
-### 📫 Connect with Me
-- **Email:** [mandyzembe25@gmail.com](mailto:mandyzembe25@gmail.com)  
-- **LinkedIn:** [Mandy Matsane](https://www.linkedin.com/in/mandy-matsane-8168a226a/)
+## 🧠 Education
 
-Feel free to reach out for collaboration or networking opportunities!
+**Diploma in Computer Science**  
+📍 *Tshwane University of Technology*  
+📅 *Graduated April 2025*
+
+---
+
+## 💼 Experience
+
+### 👩‍💻 Software Developer Intern  
+*Aug 2024 – May 2025*
+
+- Built backend systems with **PHP** & **Laravel**  
+- Developed UIs using **Tailwind CSS**  
+- Used **MySQL** for data storage  
+- Collaborated on team-based feature delivery  
+- Practiced version control with **Git & GitHub**
+
+### 🧑‍🏫 Student Residence Mentor  
+*Feb 2023 – Dec 2023*
+
+- Mentored fellow students  
+- Facilitated exam prep sessions  
+- Fostered academic & personal growth
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ [E-commerce Application](https://github.com/09Jeanette/LifestyleDeliciousWebApp.git)
+- **Tech:** Java, Spring Boot, PostgreSQL, Bootstrap  
+- Built a full-stack platform to manage products, orders, and users.
+
+### 🎯 [AbilityAssist Website](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)
+- **Tech:** Python, Django, PostgreSQL, Bootstrap  
+- Helps visually impaired students navigate campus with audio directions & maps.
+
+### 🎫 Event Booking Platform
+- **Tech:** PHP, Laravel, Tailwind CSS  
+- A responsive booking system with roles: Admin, Organizer & Attendee.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="mailto:mandyzembe25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mandy-matsane-8168a226a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Code is not just lines — it’s logic, creativity, and impact." — Mandy Matsane</em>
+</p>
