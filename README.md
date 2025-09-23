@@ -72,11 +72,7 @@
 - **Tech:** Java, Spring Boot, PostgreSQL, Bootstrap  
 - Built a full-stack platform to manage products, orders, and users.
 
-### 🎯 [AbilityAssist Website](https://ability-assist-347e4e772fc7.herokuapp.com/AbilityAssistWebApp/)
-- **Tech:** Python, Django, PostgreSQL, Bootstrap  
-- Helps visually impaired students navigate campus with audio directions & maps.
-
-### 🎫 Event Booking Platform
+### 🎫 Event Booking Platform()
 - **Tech:** PHP, Laravel, Tailwind CSS  
 - A responsive booking system with roles: Admin, Organizer & Attendee.
 
