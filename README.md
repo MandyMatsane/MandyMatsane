@@ -92,7 +92,7 @@ AmbuConnect is a web-based emergency response system designed to help **patients
 - The app runs on **GlassFish server** and uses **Derby DB** for data persistence.  
 - Development is managed in **NetBeans**, and the project follows a modular, layered architecture.
 
-🔄 *Currently in active development — repository and demo coming soon!*
+🔄 *Currently in active development*
 
 
 ---
