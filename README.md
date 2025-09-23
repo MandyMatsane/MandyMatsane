@@ -80,7 +80,7 @@
 - **Tech:** PHP, Laravel, Tailwind CSS  
 - A responsive booking system with roles: Admin, Organizer & Attendee.
 
-### 🚑 AmbuConnect[https://github.com/MandyMatsane/AmbuConnect-Application-JEE.git] *(In Progress)*  
+### 🚑[AmbuConnect (https://github.com/MandyMatsane/AmbuConnect-Application-JEE.git)] *(In Progress)*  
 **Tech Stack:** Java EE, Servlets, JSP, JPA, EJB, Derby DB, GlassFish, NetBeans  
 
 AmbuConnect is a web-based emergency response system designed to help **patients quickly request an ambulance** online.
