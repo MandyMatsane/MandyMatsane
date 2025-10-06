@@ -67,10 +67,6 @@
 
 ## 🚀 Featured Projects
 
-### 🛍️ [E-commerce Application](https://github.com/09Jeanette/LifestyleDeliciousWebApp.git)
-- **Tech:** Java, Spring Boot, PostgreSQL, Bootstrap  
-- Built a full-stack platform to manage products, orders, and users.
-
 ### 🎫[Event Booking Platform](https://github.com/MandyMatsane/laravel-event-booking.git)
 - **Tech:** PHP, Laravel, Tailwind CSS  
 - A responsive booking system with roles: Admin, Organizer & Attendee.
